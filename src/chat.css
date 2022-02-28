@@ -1,0 +1,28 @@
+.back-chat {
+  background-color:#ffffff;
+  position: relative;
+  z-index: 1000;
+  box-sizing: border-box;
+  display: flex;
+  flex: none;
+  justify-content: flex-start;
+  flex-direction: column;
+  width: 31%;
+  height: 461px;
+}
+.contacts{
+    display: flex;
+    flex: none;
+    justify-content: flex-start;
+    align-items: center;
+}
+.avatar{
+  padding: 5px;
+  margin-top: 5px;
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+}
+.name{
+    padding-left: 10px;
+}
